@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Exec=tridentu-essays
+TryExec=tridentu-essays
+MimeType=text/html;
+Icon=application-msword
+Terminal=false
+Name=Essays
+GenericName=Light Word Processor
+Comment=A word processor designed mainly for writing school documents such as essays.
+Categories=Qt;KDE;Office;
+StartupWMClass=TridentuEssays
+SingleMainWindow=true

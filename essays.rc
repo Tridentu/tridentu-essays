@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui name="essays"
+     version="1"
+     xmlns="https://www.kde.org/standards/kxmlgui/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="https://www.kde.org/standards/kxmlgui/1.0
+                         https://www.kde.org/standards/kxmlgui/1.0/kxmlgui.xsd">
+  <MenuBar>
+    <Menu name="file" >
+      <text>F&amp;ile</text>
+      <Action name="quit" />
+    </Menu>
+    <Menu name="edit" >
+      <text>Edit</text>
+      <Action name="undo" />
+
+    </Menu>
+  </MenuBar>
+
+  <ToolBar name="mainToolBar" >
+    <text>Main Toolbar</text>
+    <Action name="clear" />
+  </ToolBar>
+</gui>

@@ -1,0 +1,6 @@
+File=essays.kcfg
+ClassName=EssaysConfig
+Mutators=true
+DefaultValueGetters=true
+Singleton=true
+ItemAccessors=true
